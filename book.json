@@ -1,0 +1,9 @@
+{
+    "plugins": [
+        "atoc",
+        "autocover",
+        "back-to-top-button",
+        "blog",
+        "catalog"
+    ]
+}
